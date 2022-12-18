@@ -23,8 +23,4 @@ def intro():
 
     )
 
-    st.image("p1.jpeg", use_column_width=True)
-
-   
-    
-
+    st.image("images/p1.jpeg", use_column_width=True)
